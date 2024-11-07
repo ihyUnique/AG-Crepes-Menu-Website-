@@ -1,0 +1,31 @@
+*{ overflow-x: hidden;
+}
+
+h1, h2, h3, p, ul   {
+    text-align: center;
+    justify-content: center;
+}
+  body {
+    background-color: #faebd7; 
+}
+
+div.toppings {
+    text-align: center;
+}
+
+div.Fruits {
+    text-align: center;
+}
+
+ul.myul {
+    text-align: center;
+}
+
+img  {
+    display:block; 
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+   
